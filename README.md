@@ -22,20 +22,20 @@ A terminal or command prompt to run the application.<br>
 
 How to Run <br>
 Clone the Repository: <br>
-bash <br>
-Copy code <br>
+ <br>
+<br>
 git clone <repository-url> <br>
 Navigate to the Project Directory: <br>
-bash <br>
-Copy code <br>
+ <br>
+ <br>
 cd atm-system <br>
 Compile the Code: <br>
-bash<br>
-Copy code<br>
+<br>
+<br>
 javac atmSystem.java<br>
 Run the Application:<br>
-bash<br>
-Copy code<br>
+<br>
+<br>
 java atmSystem<br>
 
 
