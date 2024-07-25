@@ -46,7 +46,7 @@ public class atmSystem {
                 System.out.print("Enter amount to deposit: ");
                 int deposit = sc.nextInt();
                 System.out.println("Rs-"+deposit + " deposited successfully ");
-                System.out.println("Available Blance is " + (balance+deposit));
+                System.out.println("Available Balance is " + (balance+deposit));
                 break;
 
                 case 4:
@@ -55,7 +55,7 @@ public class atmSystem {
                 break;
             
                 default:
-                System.out.println("Invalid  choice ");
+                System.out.println("Invalid  choice  ");
                 break;
             }
 
