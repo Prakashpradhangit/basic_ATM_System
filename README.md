@@ -20,24 +20,19 @@ A terminal or command prompt to run the application.<br>
 <br>
 
 
-How to Run <br>
+# How to Run 
 Clone the Repository: <br>
- <br>
-<br>
 git clone <repository-url> <br>
+<br><br>
 Navigate to the Project Directory: <br>
- <br>
- <br>
 cd atm-system <br>
+<br><br>
 Compile the Code: <br>
-<br>
-<br>
 javac atmSystem.java<br>
+<br><br>
 Run the Application:<br>
-<br>
-<br>
 java atmSystem<br>
-
+<br><br>
 
 # Code Description
 Main Class: atmSystem <br><br><br>
